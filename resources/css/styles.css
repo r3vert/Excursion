@@ -23,3 +23,7 @@ p {
 .header--secondary {
   font-size: 42px;
 }
+
+.copyright {
+  text-align: right;
+}
